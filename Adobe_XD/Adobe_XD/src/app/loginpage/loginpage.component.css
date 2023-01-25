@@ -1,0 +1,217 @@
+#Background_ {
+    fill: url(#Background_);
+    /* left: 400px;
+    position: relative; */
+    background-color: #7477A0;
+    height: 550px; 
+    width: 375px;
+    position: relative;
+    top:50px;
+}
+.Background_ {
+    overflow: visible;
+    position: relative;
+   
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Group_11599 {
+    position: absolute;
+    width: 57.958px;
+    height: 96.86px;
+    /* left: 200px;
+    top: 300px; */
+    overflow: visible;
+}
+.text-xl-start{
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.361));
+    overflow: visible;
+    position: relative;
+    width: 281.38px;
+    height: 48.028px;
+    left: -30px;
+    top: 40px;
+    transform: matrix(1,0,0,1,0,0);
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 4px;
+}
+#text-xl-start{
+    fill: url(#Text_bu);
+   
+    color: #F11775;
+}
+#text-sm-start {
+    fill: rgba(198,198,208,1);
+    color:#C6C6D0
+}
+.text-sm-start {
+    overflow: visible;
+    position: absolute;
+    width: 198.714px;
+    height: 7.576px;
+    left: 50px;
+    top: 75px;
+    transform: matrix(1,0,0,1,0,0);
+    font-size: 10px;
+   word-spacing: 1px;
+}
+#Welcome_Back {
+    /* left: 220px; */
+    left:60px;
+    top: 120px;
+    position: relative;
+    overflow: visible;
+    width: 135px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Circular Std Black;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(255,255,255,1);
+}
+#Login_to_continue_us {
+    left: 35px;
+    top: 115px;
+    position: relative;
+    overflow: visible;
+    width: 179px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Circular Std Book;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color:#1D192C;
+}
+
+#email{
+    position: relative;
+    top:120px;
+    border-color: #1D192C;
+    z-index: -500px;
+
+    height: 48px;
+    color: aliceblue;
+}
+#email1,#password1
+{
+    background-color: #1D192C;
+    border-color: #1D192C;
+    color: #C6C6D0;
+}
+
+
+
+#icon {
+    position: absolute;
+    width: 14.943px;
+    height: 10.623px;
+    left: 100px;
+    top: 300px;
+    overflow: visible;
+    z-index: -100px;;
+}
+.bi bi-envelope{
+    position: relative;
+    top:500px;
+
+}
+#exampleInputPassword1{
+    position: relative;
+    top:135px;
+  
+    color:#7477A0;
+    height: 48px;
+}
+#exampleInputPassword2{
+    position: relative;
+    top:150px;
+   
+    color:#7477A0;
+    height: 48px;
+}
+#Remember_me {
+    left: -10px;
+    top:80px;
+    position: relative;
+    overflow: visible;
+    width: 78px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Circular Std Book;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color:#1D192C;
+}
+#flexCheckDefault {
+    
+    position: relative;
+    top:100px;
+    left:-155px;
+    background-color: rgba(29,25,44,1);
+}
+.Rectangle_bo {
+    position: absolute;
+    overflow: visible;
+    width: 14px;
+    height: 14px;
+    left: 0px;
+    top: 500x;
+    background-color: #1D192C;
+}
+#Forgot_password {
+    left: 151px;
+    top: 55px;
+    position: relative;
+    overflow: visible;
+    width: 95px;
+    white-space: nowrap;
+    text-align: right;
+    font-family: Circular Std Book;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color:#1D192C;
+}
+#login{
+    position: relative;
+    top:80px;
+    height: 50px;
+    width: 280px;
+    left:-25px;
+    background-color: #F11775;
+}
+#Dont_have_an_account_Sign_up{
+    position: relative;
+    top:120px;
+    left:-50px;
+    color:#7477A0;
+}
+#sign_up{
+    /* position:absolute; */
+    position: relative;
+    left:170px;
+    /* margin-bottom: -50px; */
+    color: #F11775;
+   
+}
+#By_signing_up_you_indicate_tha{
+    position: relative;
+    top:150px;
+    left:-10px;
+    color:#7477A0;
+}
+#Terms_of_Service{
+    left:140px;
+    margin-top: 14.5px;
+    color: #F11775;
+   
+}
+
+/* id="email1"
+id="exampleInputPassword1" 
+id="password1"
+id="exampleInputPassword2" */

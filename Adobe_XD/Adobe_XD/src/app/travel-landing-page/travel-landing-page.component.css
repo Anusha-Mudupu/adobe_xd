@@ -1,0 +1,410 @@
+
+#Group_6 {
+    position: absolute;
+    width: 1920px;
+    height: 520px;
+    left: -20px;
+    top: 0px;
+    overflow: visible;
+}
+#Background {
+    position: absolute;
+    width: 1620px;
+    height: 620px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Links {
+    position: absolute;
+    width: 845px;
+    height: 32px;
+    left: 350px;
+    top: 0px;
+    overflow: visible;
+    padding: 0px;
+}
+#Reviews {
+    left: 757px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 89px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Forma DJR Text;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(227,244,255,1);
+    letter-spacing: 0.24px;
+}
+#Flights {
+    left: 595px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 73px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Forma DJR Text;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(227,244,255,1);
+    letter-spacing: 0.24px;
+}
+#Packages {
+    left: 402px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 101px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Forma DJR Text;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(227,244,255,1);
+    letter-spacing: 0.24px;
+}
+#Destinations {
+    left: 171px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 139px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Forma DJR Text;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(227,244,255,1);
+    letter-spacing: 0.24px;
+}
+#Explore {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 83px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Forma DJR Text;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(227,244,255,1);
+    letter-spacing: 0.24px;
+}
+#magnifying-glass {
+    position: relative;
+    width: 27.992px;
+    height: 28px;
+    left: 1000px;
+    top: 3px;
+    overflow: visible;
+}
+#circle-user {
+    position: relative;
+    width: 28px;
+    height: 28px;
+    left: 1100px;
+    top: -25px;
+    overflow: visible;
+}
+#Its_time_to {
+    left: 295px;
+    top: 120px;
+    position: absolute;
+    overflow: visible;
+    width: 273px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Astoria;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+}
+#ADVENTURE {
+    left: 0px;
+    top: 200px;
+    position: absolute;
+    overflow: visible;
+    width: 863px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Blenny;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 95px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 3.6px;
+}
+
+#Round_Trip {
+    position: absolute;
+    width: 150px;
+    height: 46px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_8 {
+    fill: rgba(255,255,255,1);
+}
+.Rectangle_8 {
+    filter: drop-shadow(0px 53px 48px rgba(0, 37, 74, 0.161));
+    position: absolute;
+    overflow: visible;
+    width: 294px;
+    height: 190px;
+    left: 0px;
+    top: 400px;
+}
+#Round_trip {
+    left: 23px;
+    top: 400px;
+    position: absolute;
+    overflow: visible;
+    width: 105px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Forma DJR Text;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(61,95,143,1);
+    letter-spacing: 0.2px;
+}
+#One_way {
+    position: absolute;
+    width: 150px;
+    height: 46px;
+    left: 156px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_9 {
+    filter: blur(50px);
+    fill: rgba(0,0,0,1);
+}
+.Rectangle_9 {
+    filter: drop-shadow(0px 53px 48px rgba(228, 29, 29, 0.161));
+    position: relative;
+    overflow: visible;
+    width: 294px;
+    height: 190px;
+    left: 0px;
+    top: 0px;
+}
+#One_way_bg {
+    left: 33px;
+    top: 400px;
+    position: absolute;
+    overflow: visible;
+    width: 85px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Forma DJR Text;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.2px;
+}
+#Rectangle_10 {
+    filter: blur(50px);
+    fill: rgba(0,0,0,1);
+}
+.Rectangle_10 {
+    filter: drop-shadow(0px 53px 48px rgba(0, 37, 74, 0.161));
+    position: absolute;
+    overflow: visible;
+    width: 294px;
+    height: 190px;
+    left: 0px;
+    top: 0px;
+}
+#Multi-city {
+    left: 300px;
+    top: 400px;
+    position: absolute;
+    overflow: visible;
+    width: 97px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Forma DJR Text;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.2px;
+}
+#Rectangle_2 {
+    fill: rgba(255,255,255,1);
+    width: 1000px;
+    height: 100px;
+}
+.Rectangle_2 {
+    filter: drop-shadow(0px 56px 48px rgba(0, 37, 74, 0.102));
+    position:relative;
+    overflow: visible;
+    width: 0px;
+   
+    left: 0px;
+    top: 380px;
+}
+#Lofoten_Islands {
+    left: 80px;
+    top: 470px;
+    position: absolute;
+    overflow: visible;
+    width: 150px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Forma DJR Text;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(34,38,43,1);
+    letter-spacing: 0.2px;
+}
+#n__adults {
+    left: 270px;
+    top: 470px;
+    position: absolute;
+    overflow: visible;
+    width: 78px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Forma DJR Text;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(34,38,43,1);
+    letter-spacing: 0.2px;
+}
+#May_8th_2021 {
+    left: 400px;
+    top: 469px;
+    position: absolute;
+    overflow: visible;
+    width: 132px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Forma DJR Text;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(34,38,43,1);
+    letter-spacing: 0.2px;
+}
+#May_19th_2021 {
+    left: 600px;
+    top: 470px;
+    position: absolute;
+    overflow: visible;
+    width: 144px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Forma DJR Text;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(34,38,43,1);
+    letter-spacing: 0.2px;
+}
+#Rectangle_3 {
+    fill: rgba(92,40,234,1);
+}
+.Rectangle_3 {
+    position: absolute;
+    overflow: visible;
+    width: 162px;
+    height: 61px;
+    left: 800px;
+    top: 450px;
+}
+#Lets_go {
+    left: 840px;
+    top: 460px;
+    position: absolute;
+    overflow: visible;
+    width: 83px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Forma DJR Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 21px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.24px;
+    line-height: 50px;
+}
+#Discover_your_next_adventure {
+    left: 60px;
+    top: 700px;
+    position: absolute;
+    overflow: visible;
+    width: 576px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Forma DJR Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    color: rgba(84,84,102,1);
+    letter-spacing: 0.2px;
+}
+#Card_ba {
+    position: absolute;
+    width: 300px;
+    height: 200px;
+    left: 150px;
+    top: 800px;
+    overflow: visible;
+}
+#AdobeStock_390498659 {
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left: 500px;
+    top: 800px;
+    overflow: visible;
+}
+#AdobeStock_458932623 {
+    position:relative;
+   
+    left: 850px;
+    top: 800px;
+    overflow: visible;
+}
+#AdobeStock_475038679 {
+    position: absolute;
+    width: 415px;
+    height: 459px;
+    left: 1200px;
+    top: 800px;
+    overflow: visible;
+}
+#Show_me_more {
+    left: 1300px;
+    top: 700px;
+    position: absolute;
+    overflow: visible;
+    width: 175px;
+    white-space: nowrap;
+    text-align: right;
+    font-family: Forma DJR Text;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: rgba(92,40,234,1);
+    letter-spacing: 0.2px;
+}
