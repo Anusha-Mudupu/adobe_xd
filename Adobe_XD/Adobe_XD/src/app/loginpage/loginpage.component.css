@@ -210,7 +210,23 @@
     color: #F11775;
    
 }
-
+#register_here{
+    top: 30px;
+    position: relative;
+    margin-left: 40px; 
+    font-family: Circular Std Book;
+    color: blue; 
+    font-size: 15px;
+    font-weight: lighter;
+}
+ #dont_have_account{
+  position: relative;
+  font-size: 13px;
+  white-space: 0;
+  letter-spacing: 1px;
+  top:100px;
+  font-weight: lighter;
+}
 /* id="email1"
 id="exampleInputPassword1" 
 id="password1"
