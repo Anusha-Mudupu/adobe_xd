@@ -1,0 +1,24 @@
+{
+    "tutorials":[{
+
+    "courseList":[
+        {
+            "id":1,
+            "course":"java",
+            "topics":[{
+                "topic1":"classes&objects",
+                "topic2":"collections"
+            }]
+        },
+        {
+            "id":2,
+            "course":"angular",
+            "topics":[{
+                "topic1":"databindings",
+                "topic2":"routings"
+        }]
+            }
+    
+    ]
+ }]
+}

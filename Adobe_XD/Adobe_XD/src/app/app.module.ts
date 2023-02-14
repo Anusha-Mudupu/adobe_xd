@@ -12,6 +12,11 @@ import { UserRegisterFormComponent } from './user-register-form/user-register-fo
 
 import { Ng2SearchPipeModule } from 'ng2-search-filter';
 import { RaidoAdventureComponent } from './raido-adventure/raido-adventure.component';
+import { DmantzHomePageComponent } from './dmantz-home-page/dmantz-home-page.component';
+
+import { TechnologyStackComponent } from './technology-stack/technology-stack.component';
+
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -21,6 +26,11 @@ import { RaidoAdventureComponent } from './raido-adventure/raido-adventure.compo
     LoginpageComponent,
     UserRegisterFormComponent,
     RaidoAdventureComponent,
+    DmantzHomePageComponent,
+    
+    TechnologyStackComponent,
+
+
     
   ],
   imports: [

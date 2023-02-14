@@ -1,0 +1,40 @@
+ 
+<div class="container-fluid" *ngFor="let tue of tutorials"> 
+    <!-- <div class="row">
+        <div class="col-6">
+            <h1> ID:
+                {{stu.id}}</h1>
+        </div>
+        <div class="col-6">
+            <h1> StudentName:
+                {{stu.studentname}}</h1>
+        </div>
+        
+    </div> -->
+   
+
+    <table class="table" *ngFor="let abc of tue.courseList">
+        <table class="table">
+            <thead>
+                <tr>
+                    <h5>id:{{abc.id}}</h5>
+                    <h5>coursename:{{abc.course}}</h5>
+                    <td>
+                       
+
+
+                        <button class="btn btn-primary" (click)=onClick()>Click</button>  
+                       <!-- <span><a routerLink="/java-course" routerLinkActive="active">clickme</a></span> -->
+                      </td>
+                </tr>
+            </thead>
+            <tr *ngFor="let def of abc.topics">
+                <h5>topic1:
+                    {{def.topic1}}
+                </h5>
+                <h5>topic2:
+                    {{def.topic2}}
+                </h5>
+            </tr>
+        </table>
+    </table>

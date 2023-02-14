@@ -42,15 +42,14 @@ export class LoginpageComponent implements OnInit {
   }
   logIn() {
     this.submitted = true
-    this.http.get<any>(" http://localhost:3000/userRegister")
-    .subscribe(res=>{
+    this.http.get<any>(" http://localhost:3000/userRegister").subscribe(res=>{
       const user = res.find((a:any)=>{
         return a.email === this.registerForm.value.email && a.password === this.registerForm.value.password
       });
 
        if(user){
         alert("login is sccessfull")
-        localStorage.setItem('token',"hi")
+        localStorage.setItem('name',"user")
         this.registerForm.reset()
        this.router.navigate(['raido-adventure'])
        }else{
