@@ -1,0 +1,85 @@
+.bg-image{
+    background-image: url(../../assets/ofc-bul2);
+    background-size: cover;
+    background-repeat: no-repeat;
+   }
+   .text-lg-start{
+    position: relative;
+   
+    margin-left: 400px;
+    top:300px;
+    color:aliceblue;
+    font-size: 55px;
+    font-weight: bold;
+   }
+   /* #disc1{
+	position: relative;
+			width: 120px;
+			margin-left: 650px;
+             height: 50px;
+			top:400px;
+          
+			/* overflow: visible; */
+			/* color: aliceblue; */
+			/* background-color: #1D1C1C; */
+			/* border-style:solid;
+			border-color:white;
+			text-align: center; */
+		/* }
+		#arr1{
+			margin-left: 20px;
+		} */
+        #see_more{
+            position: relative;
+		
+			margin-left: 650px;
+       
+			top:500px;
+        }
+        .button {
+            border-radius: 4px;
+            background-color:darkblue;
+            border: none;
+            color: #FFFFFF;
+            text-align: center;
+            font-size: 28px;
+            padding: 20px;
+            width: 170px;
+            transition: all 0.5s;
+            cursor: pointer;
+            margin: 5px;
+            left:650px;
+            position: relative;
+            top:350px;
+            height: 70px;
+          }
+          
+          .button span {
+            cursor: pointer;
+            display: inline-block;
+            position: relative;
+            transition: 0.5s;
+          }
+          
+          .button span:after {
+            content: '\00bb';
+            position: absolute;
+            opacity: 0;
+            top: 0;
+            right: -20px;
+            transition: 0.5s;
+          }
+          
+          .button:hover span {
+            padding-right: 25px;
+          }
+          
+          .button:hover span:after {
+            opacity: 1;
+            right: 0;
+          }
+          .see-more{
+           font-weight: bold;
+           font-size: 20px;
+           bottom: 10px;
+          }

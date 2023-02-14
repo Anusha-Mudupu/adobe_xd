@@ -1,0 +1,498 @@
+
+#navbar{
+    width:1400px;
+    height: 75px;
+    bottom: 900px;
+  
+}
+/* #dis:hover{
+    background-color:rgba(244,159,10,1);
+
+} */
+#Radio {
+    left: 140px;
+    top: 28px;
+    position: absolute;
+    /* overflow: visible; */
+    width: 75px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    color: black;
+    letter-spacing: 0.3125px;
+}
+#home{
+     
+        left: 442px;
+        top: 36px;
+        position: absolute;
+        overflow: visible;
+        width: 48px;
+        white-space: nowrap;
+        text-align: left;
+        font-family: Muli;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 16px;
+        color:rgba(244,159,10,1);
+        letter-spacing: 0.3125px;
+    }
+    #dis {
+        left: 549px;
+        top: 36px;
+        position: absolute;
+        overflow: visible;
+        width: 73px;
+        white-space: nowrap;
+        text-align: left;
+        font-family: Muli;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        color:black;
+        letter-spacing: 0.3125px;
+    }
+    #about {
+        left: 683px;
+        top: 36px;
+        position: absolute;
+        overflow: visible;
+        width: 67px;
+        white-space: nowrap;
+        text-align: left;
+        font-family: Muli;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        color:black;
+        letter-spacing: 0.3125px;
+    }
+    #blog
+     {
+        left: 812px;
+        top: 36px;
+        position: absolute;
+        overflow: visible;
+        width: 35px;
+        white-space: nowrap;
+        text-align: left;
+        font-family: Muli;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        color: black;
+        letter-spacing: 0.3125px;
+    }
+    #journals {
+        left: 908px;
+        top: 36px;
+        position: absolute;
+        overflow: visible;
+        width: 63px;
+        white-space: nowrap;
+        text-align: left;
+        font-family: Muli;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        color: black;
+        letter-spacing: 0.3125px;
+    }
+    #gallery {
+        left: 1035px;
+        top: 36px;
+        position: absolute;
+        overflow: visible;
+        width: 56px;
+        white-space: nowrap;
+        text-align: left;
+        font-family: Muli;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        color:black;
+        letter-spacing: 0.3125px;
+    }
+    #contact {
+        left: 1152px;
+        top: 36px;
+        position: absolute;
+        overflow: visible;
+        width: 61px;
+        white-space: nowrap;
+        text-align: left;
+        font-family: Muli;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        color:black;
+        letter-spacing: 0.3125px;
+    }
+    #Background {
+		fill: rgba(217,229,228,1);
+	}
+	.Background {
+		
+		overflow: visible;
+		width: 1500px;
+		height: 901px;
+		left: 154px;
+		top: -10px;
+	}
+    #Dracaena {
+		position: absolute;
+		width: 650px;
+		height: 800px;
+		left: -160px;
+		top: -150px;
+		overflow: visible;
+	}
+	#fondo_dracena {
+		fill: rgba(232,240,239,1);
+	}
+	.fondo_dracena {
+		filter: drop-shadow(14px 30px 29px rgba(0, 0, 0, 0.059));
+		position: absolute;
+		overflow: visible;
+		width: 522px;
+		height: 477px;
+		left: 268px;
+		top: 641px;
+	}
+	#foto_dracena {
+		filter: drop-shadow(35px 12px 37px rgba(0, 0, 0, 0.051));
+		position: absolute;
+		width: 779px;
+		height: 1168px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Dracaena_Trifasciata {
+		left: 392px;
+		top: 783px;
+		position: absolute;
+		overflow: visible;
+		width: 267px;
+		height: 105px;
+		line-height: 47px;
+		margin-top: -5.5px;
+		text-align: left;
+		font-family: Poppins;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 36px;
+		color: rgba(26,46,53,1);
+		letter-spacing: 0.2px;
+	}
+	#text_dracena {
+		position: absolute;
+		width: 274px;
+		height: 116px;
+		left: 392px;
+		top: 888px;
+		overflow: visible;
+	}
+	#One_of_the_most_effective_hous {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 275px;
+		height: 64px;
+		line-height: 25px;
+		margin-top: -4px;
+		text-align: left;
+		font-family: Poppins;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(26,46,53,1);
+		letter-spacing: 0.2px;
+	}
+	#know_more_dracena {
+		position: absolute;
+		width: 139px;
+		height: 28px;
+		left: 135px;
+		top: 88px;
+		overflow: visible;
+	}
+	#Know_more_bs {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 112.61px;
+		height: 28.000017166137695px;
+		text-align: left;
+		font-family: Poppins;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		color: rgba(94,146,112,1);
+		letter-spacing: 0.2px;
+	}
+	#Dracaena_arrow {
+		position: absolute;
+		width: 14px;
+		height: 14px;
+		left: 125px;
+		top: 6px;
+		overflow: visible;
+	}
+	#Path_297_bu {
+		fill: transparent;
+		stroke: rgba(94,146,112,1);
+		stroke-width: 3px;
+		stroke-linejoin: round;
+		stroke-linecap: round;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_297_bu {
+		overflow: visible;
+		position: absolute;
+		width: 17px;
+		height: 3px;
+		left: 0px;
+		top: 7px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_298_bv {
+		fill: transparent;
+		stroke: rgba(94,146,112,1);
+		stroke-width: 3px;
+		stroke-linejoin: round;
+		stroke-linecap: round;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_298_bv {
+		overflow: visible;
+		position: absolute;
+		width: 10.398px;
+		height: 18.242px;
+		left: 7.223px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Go_green {
+		left: 600px;
+		top:-850px;
+		position: relative;
+		overflow: visible;
+		width: 455px;
+		height: 47px;
+		line-height: 65px;
+		margin-top: -18.5px;
+		/* text-align: left; */
+		font-family: Poppins;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 28px;
+		color: rgba(94,146,112,1);
+		letter-spacing: 0.2px;
+	}
+	#The_world_of_plants {
+		left: 600px;
+		top: -800px;
+		position:relative;
+		overflow: visible;
+		width: 418px;
+		height: 198px;
+		line-height: 78px;
+		margin-top: -4.5px;
+		text-align: left;
+		font-family: Poppins;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 69px;
+		color: rgba(26,46,53,1);
+		letter-spacing: 0.2px;
+	}
+	#Discover_everything_you_need_t {
+		left: 1000px;
+		top: -980px;
+		position: relative;
+		overflow: visible;
+		width: 320px;
+		height: 142px;
+		line-height: 36px;
+		margin-top: -9px;
+		text-align: left;
+		font-family: Poppins;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(26,46,53,1);
+		letter-spacing: 0.2px;
+	}
+	#Top_5_of_the_week {
+		left:610px;
+		top: -840px;
+		position:relative;
+		overflow: visible;
+		width: 445px;
+		height: 30px;
+		line-height: 47px;
+		margin-top: -15.5px;
+		text-align: left;
+		font-family: Poppins;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 16px;
+		color: rgba(26,46,53,1);
+		letter-spacing: 0.2px;
+	}
+	#foto_crassula {
+		filter: drop-shadow(35px 12px 37px rgba(0, 0, 0, 0.051));
+		position: relative;
+		width: 240px;
+		height: 382px;
+		left: 740px;
+		top: 650px;
+		overflow: visible;
+	}
+	#Crassula_Fondo {
+		fill: rgba(232,240,239,1);
+	}
+	.Crassula_Fondo {
+		filter: drop-shadow(14px 30px 29px rgba(0, 0, 0, 0.059));
+		position: absolute;
+		overflow: visible;
+		width: 338px;
+		height: 359px;
+		left: 750px;
+		top: 700px;
+	}
+	#Crassula_Ovata {
+		left: 840px;
+		top: 500px;
+		position: relative;
+		overflow: visible;
+		width: 120px;
+		height: 66px;
+		line-height: 25px;
+		margin-top: -4px;
+		text-align: left;
+		font-family: Poppins;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 17px;
+		color: rgba(26,46,53,1);
+		letter-spacing: 0.2px;
+	}
+	#fondo_hawor {
+		fill: rgba(232,240,239,1);
+	}
+	.fondo_hawor {
+		filter: drop-shadow(14px 30px 29px rgba(0, 0, 0, 0.059));
+		position: relative;
+		overflow: visible;
+		width: 340px;
+		height: 359px;
+		left: 1040px;
+		top: 260px;
+	}
+	#foto_hawor {
+		filter: drop-shadow(35px 12px 37px rgba(0, 0, 0, 0.051));
+		position:relative;
+		width: 211px;
+		height: 333px;
+		left: 700px;
+		top: 210px;
+		overflow: visible;
+	}
+	
+	#Haworthiopsis_Attenuata_ {
+		left: 1100px;
+		top: 60px;
+		position: relative;
+		overflow: visible;
+		width: 169px;
+		height: 65px;
+		line-height: 25px;
+		margin-top: -4px;
+		text-align: left;
+		font-family: Poppins;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 17px;
+		color: rgba(26,46,53,1);
+		letter-spacing: 0.2px;
+	}
+	#foto_brown {
+		filter: drop-shadow(35px 12px 37px rgba(0, 0, 0, 0.051));
+		position:relative;
+		width: 185px;
+		height: 305px;
+		left: 1050px;
+		top:-180px;
+		overflow: visible;
+	}
+	#Browningia_Hertlingiana {
+		left: 1450px;
+		top: -350px;
+		position:relative;
+		overflow: visible;
+		width: 154px;
+		height: 65px;
+		line-height: 25px;
+		margin-top: -4px;
+		text-align: left;
+		font-family: Poppins;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 17px;
+		color: rgba(26,46,53,1);
+		letter-spacing: 0.2px;
+	}
+	.fondo_hawor1 {
+		filter: drop-shadow(14px 30px 29px rgba(0, 0, 0, 0.059));
+		position:relative;
+		overflow: visible;
+		width: 340px;
+		height: 359px;
+		left: 1350px;
+		top: -160px;
+		fill: rgba(232,240,239,1);
+	}
+	#foto_hawor1 {
+		filter: drop-shadow(35px 12px 37px rgba(0, 0, 0, 0.051));
+		position:relative;
+		width: 211px;
+		height: 333px;
+		left: 700px;
+		top: 210px;
+		overflow: visible;
+		fill: rgba(232,240,239,1);
+	}
+	.person-icon{
+		position: relative;
+		top:20px;
+		left:-30px;
+	}
+	.icon{
+		position: relative;
+		top:20px;
+	}
+    #disc {
+		left: 200px;
+		/* top: -800px; */
+		/* position:relative; */
+		overflow: visible;
+		width: 576px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Forma DJR Display;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 40px;
+		color:red;
+		letter-spacing: 0.2px;
+        z-index: -1;
+	}

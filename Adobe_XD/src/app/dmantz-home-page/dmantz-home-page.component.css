@@ -1,0 +1,299 @@
+@media screen and (min-width:992px){
+    .nav-item {
+    line-height:80px;
+    }
+  }
+ .img-responsive{
+    position: relative;
+    top:50px;
+ 
+ }
+ .text-dark{
+    position: relative;
+    top:-250px;  
+    margin-left: 200px;
+ }
+ 
+ .products{
+    color: black;
+ }
+ #ofc-name{
+    position: relative;
+    top:-0px;
+    left:0px;
+    font-style: italic;
+    font-size: 20px;
+    color: darkgreen;
+ }
+ #ofc-name1{
+    position: relative;
+    top:-60px;
+    left:0px;
+    font-style: italic;
+    font-size: 20px;
+    color: darkgreen;
+
+
+ }
+ .navbar{
+    position: relative;
+    top:-870px;
+    height: 80px;
+    background-color:black
+    ;
+ }
+ #navbar-items{
+    margin-left: 580px;
+ }
+ .bi-person-circle{
+    color: aliceblue;
+    margin-top: 28px;
+ 
+    margin-right: -17px;
+   }
+   #Home{
+      margin-right: 15px;
+      position: relative;
+   }
+ .bi-phone{
+    color: aliceblue;
+    margin-top: 28px;
+    margin-right: -17px;
+    margin-left: 10px;
+ }
+ .bg-info{
+    height:800px;
+   
+ }
+#bottom-background{
+    width: 1535px;
+    height: 200px;
+    background-color: black;
+    position: relative;
+    top:-350px;
+  
+
+}
+.h1,.h4,.h2{
+    color: aliceblue;
+    margin-left: 100px;
+    position: relative;
+    top: 60px;
+}
+#facebook{
+    color: aliceblue;
+     margin-top: -20px;
+    margin-left: 800px;
+  
+}
+#twitter{
+    color: aliceblue;
+     margin-top: -70px;
+    margin-left: 900px; 
+}
+#insta{
+    color: aliceblue;
+    margin-top: -100px;
+   margin-left: 1000px; 
+}
+#what_we_do{
+    position: relative;
+    top:-600px;
+}
+.h4{
+    position: relative;
+    top:150px;
+}
+.DMANTZ_technologies{
+   font-size: 38px;
+   font-style: italic;
+}
+#DMANTZ_icon{
+   position: relative;
+   margin-left: 25px;
+}
+*{
+   padding:0;
+   margin:0;
+}
+body{
+   display:flex;
+   align-items:center;
+   justify-content:center;
+   height:100vh;
+}
+h2{
+   position:relative;
+   font-size:2rem;
+   font-family:sans-serif;
+   -webkit-text-stroke:0.1vw #383d52;
+   text-transform:uppercase;
+   left:100px;
+   top:100px;
+   
+}
+h2::before{
+   content: attr(data-text);
+   position:absolute;
+   top:0;
+   left:0;
+   width:0%;
+   height:100%;
+   color:#4fed51;
+
+   -webkit-text-stroke:0vw #383d52;
+   border-right:2px solid #4fed51;
+   overflow:hidden;
+   /* transition:animate 6s linear infinite; */
+    animation:animate 6s linear infinite;
+
+}
+@keyframes animate{
+   0%{
+   width:0;
+}
+70%{
+   width:15%;
+}
+}
+p{
+   line-height: 1.8;
+   letter-spacing: 1px;
+   font-family:'Courier New', Courier, monospace;
+}
+.h3{
+   position: relative;
+   top:-200px;
+   margin-left: 600px;
+   font-family: 'Courier New', Courier, monospace;
+}
+.h5{
+   position: relative;
+   top:-150px;
+   margin-left: 100px;
+}
+.web{
+   position: relative;
+   top:-130px;
+   margin-left:80px ;
+}
+.bg-image1{
+   margin-top: -250px;
+}
+.web{
+   position: relative;
+   top:-500px
+}
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif
+}
+body
+{
+    min-width: 100vw;
+    min-height: 100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background: #16384c;
+}
+
+.container .card
+{
+    max-width: 300px;
+    height: 215px;
+    margin: 30px 10px;
+    padding: 20px 15px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.5);
+    transition: 0.3s ease-in-out;
+}
+.container .card:hover
+{
+    height: 450px;
+}
+.container .card .imgContainer
+{
+    position: relative;
+    width:250px;
+    height:250px;
+    top:-50px;
+    left:10px;
+    z-index: 1;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.2);
+}
+.container .card .imgContainer img
+{
+    max-width: 100%;
+    border-radius: 4px;
+}
+.container .card .content
+{
+    position: relative;
+    margin-top: -140px;
+    padding: 10px 15px;
+    text-align: center;
+    color:#111;
+    visibility: hidden;
+    opacity: 0;
+    pointer-events: none;
+    transition: 0.3s ease-in-out;
+}
+.container .card:hover .content
+{
+    visibility: visible;
+    opacity: 1;
+    margin-top: -40px;
+    transition-delay: 0.3s;
+}
+
+@media (max-width: 330px){
+    .container .card .imgContainer{
+        left: -2px;
+    }
+}
+#card-images{
+   position: relative;
+   top:-600px;
+   margin-left: 100px;
+}
+#web-ui{
+   position: relative;
+   top:-90px;
+
+   margin-left: -30px;
+}
+#enterprise{
+   position: relative;
+   top:-90px;
+
+   margin-left: -20px;
+}
+#database{
+   position: relative;
+   top:-90px;
+
+   margin-left: -20px;
+}
+#mobile_apps{
+   position: relative;
+   top:-90px;
+
+   margin-left: -20px;
+}
+#technology_stock{
+   position: relative;
+   top:-700px;
+   left:500px;
+ 
+   color: mintcream;
+   
+}
+
+@media (max-width: 330px){
+  #bg-img,.navbar {
+       left: -2px;
+   }
+}
